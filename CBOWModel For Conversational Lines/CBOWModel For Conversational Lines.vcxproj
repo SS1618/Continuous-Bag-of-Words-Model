@@ -151,6 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Net.h" />
+    <ClInclude Include="Neuron.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
